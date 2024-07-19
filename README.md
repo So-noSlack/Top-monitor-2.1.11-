@@ -2,6 +2,8 @@
 
 Brief description of project purpose: A system that assists teachers in statistical quantification.
 
+[Description](https://www.cnblogs.com/So-noSlack/p/18310379)
+
 # Top monitor item Description
 
 The project is designed to help teachers manage student quantification procedures, the default has three ports, respectively for the student side, the teacher side and the management side. The copyright notice can be found on the main page.
